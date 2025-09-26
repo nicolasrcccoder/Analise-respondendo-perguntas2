@@ -1,0 +1,31 @@
+1- Qual foi o total de valor venda considerando cada modo de envio dos pedidos? 
+Classe Padrão com 7,556,488,51 M
+Segunda Classe com 2,565,561,05 M
+Primeira Classe com 1,843,146,32 M
+Mesmo Dia com 677,305,33 mil
+TOTAL : 12,642,501,91 $
+
+
+2- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? 
+os 3 com o maior custo médio de envio:
+1 - APAC com 29,14
+2 - US com 28,94
+3 - EU com 27,84
+
+
+3- A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda
+todos os meses. Mostre um indicador (KPI – Key Performance Indicator) com o valor
+médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+Ficou abaixo. (229 < 350)
+
+
+4- Considere que o lucro é equivalente a: valor venda - custo envio. Qual categoria de
+produto apresentou maior lucro médio?
+1 - Tecnologia 413,69 
+2 - Moveis 297,96
+3 - Material de escritório 111,04
+
+5- Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a
+margem de lucro como o lucro dividido pelo valor venda?
+a margem de lucro demonstrou flutuações diárias constantes, 
+mas apresentou uma tendência geral de crescimento no volume total entre 2011 e 2014.
